@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+.home-icon{
+    position: absolute;
+        width: 80px;
+        height: 80px;
+        background: #E9E9E9;
+        border-radius: 20px;
+        top: 167px;
+        left: 35px;
+}
+#blog-content-wrap{
+    position:absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 191px;
+    margin-left: 18%;
+   
+}
+#blog-head{
+    
+    font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 48px;
+        margin-left: 25%;
+}
+#blog-content{
+   
+        width: 80%;
+        height: 443px;
+    font-family: 'Inter';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 40px;
+        line-height: 48px;
+        text-align: justify;
+        margin-top: 48px;
+}

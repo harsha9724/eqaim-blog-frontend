@@ -1,0 +1,49 @@
+.home-icon {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background: #E9E9E9;
+    border-radius: 20px;
+    top: 167px;
+    left: 35px;
+}
+#post-icon{
+    position: relative;
+    top: 255px;
+    cursor: pointer;
+}
+#text-area{
+   position: absolute;
+   margin-left: 18%;
+   margin-top: 7%;
+}
+#text-styles{
+    width: 979px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #E9E9E9;
+}
+#text-styles>img:first-child{
+margin-left: 12%;
+}
+#text-styles>img{
+    margin-left: 2%;
+    cursor: pointer;
+}
+#newBloghead {
+    width: 976px;
+    height: 50px;
+    text-align: center;
+    font-size:30px;
+}
+#blog-text{
+        position: absolute;
+        box-sizing: border-box;
+        width: 979px;
+        height: 400px;
+        font-size: 50px;
+        padding: 30px;
+        /* background: #E9E9E9; */
+}

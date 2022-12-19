@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+#card-wrap{
+    position: relative;
+        width: 300px;
+        height: 180px;
+        background: #D9D9D9;
+        border-radius: 15px;
+        top: 200px;
+        left: 95px;
+      margin-right:  134px;
+      margin-bottom: 80px;
+      cursor: pointer;
+}
+
+#card-name{
+        position: absolute;
+        width: 134px;
+        height: 39px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 39px;
+        color: #000000;
+        left: 83px;
+        top: 70px;
+}
